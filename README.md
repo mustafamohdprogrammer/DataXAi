@@ -56,8 +56,8 @@ DataXAi/
 
 ## 📬 Contact
 
-- **GitHub**: [mustafamohdprogrammer](https://github.com/mustafamohdprogrammer)
-- **LinkedIn**: [Your LinkedIn Profile](#)
-- **Email**: [Your Email Address](mailto:your-email@example.com)
+- **GitHub**: [mustafamohdprogrammer]
+- **LinkedIn**: (https://www.linkedin.com/in/mustafa1622/)
+- **Email**:(mohdmustafa969@gmail.com)
 
 ⭐ If you find this repository inspiring, give it a star and follow along on my learning adventure!
